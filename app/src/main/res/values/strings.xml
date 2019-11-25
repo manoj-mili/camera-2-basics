@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Camera 2</string>
+    <string name="message_photo_taken">Photo Taken Successfully</string>
+    <string name="click_photo">Click Photo</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="qr_code_scan_instruction">Please Place QR Code Inside The Rectangle</string>
+    <string name="code_not_scanned">Code Not Scanned Try Again</string>
+</resources>
